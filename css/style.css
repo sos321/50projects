@@ -22,10 +22,6 @@
   text-align: center;
 }
 
-p {
-  margin-bottom: 1rem;
-}
-
 h1,
 h2,
 h3,
@@ -81,4 +77,40 @@ body {
 
 .link {
   color: #000;
+}
+
+.projects {
+  width: 80%;
+
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2rem;
+
+  margin-bottom: 4rem;
+}
+
+.project {
+  padding: 1.5rem;
+
+  background-color: #f1f1f1;
+  border-radius: 11px;
+  box-shadow: 0 3px 10px rgb(0, 0, 0, 0.2);
+}
+
+.project-title {
+  font-size: 1rem;
+  color: #444;
+
+  margin-bottom: 0.5rem;
+}
+
+.project-link {
+  font-size: 1.5rem;
+
+  margin-bottom: 1.5rem;
+}
+
+.objective-list {
+  margin-left: 17px;
 }
