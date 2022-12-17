@@ -4,24 +4,6 @@
   padding: 0;
 }
 
-/* TODO Delete */
-.work-in-progress {
-  position: absolute;
-  top: 60px;
-  left: -80px;
-
-  transform: rotate(-45deg);
-
-  background-color: rgb(195, 60, 47);
-
-  padding: 1rem;
-
-  width: 350px;
-
-  font-size: 1.5rem;
-  text-align: center;
-}
-
 h1,
 h2,
 h3,
