@@ -1,0 +1,47 @@
+@media (max-width: 1130px) {
+  .project {
+    width: 15rem;
+  }
+
+  .projects {
+    width: 90%;
+  }
+
+  .description {
+    width: 50rem;
+  }
+
+  html {
+    font-size: 95%;
+  }
+}
+
+@media (max-width: 836px) {
+  html {
+    font-size: 75%;
+  }
+
+  .description {
+    width: 40rem;
+  }
+}
+
+@media (max-width: 520px) {
+  html {
+    font-size: 70%;
+  }
+
+  .description {
+    width: 30rem;
+  }
+
+  .title {
+    width: 35rem;
+  }
+}
+
+@media (max-width: 400px) {
+  html {
+    font-size: 60%;
+  }
+}
